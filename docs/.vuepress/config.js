@@ -3,6 +3,6 @@ module.exports = {
     description: 'Just playing around'
   }
 
-  module.exports = {
+module.exports = {
   theme: 'xxx'
 }

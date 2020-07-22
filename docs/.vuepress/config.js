@@ -4,5 +4,5 @@ module.exports = {
   }
 
 module.exports = {
-  theme: 'xxx'
+  theme: '@org/vuepress-theme-xxx', // or an official theme: '@vuepress/theme-xxx'
 }

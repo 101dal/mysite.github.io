@@ -1,3 +1,4 @@
+---
 home: true
 heroImage: /hero.png
 heroText: Hero Title

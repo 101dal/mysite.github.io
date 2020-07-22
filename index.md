@@ -1,1 +1,0 @@
-Hi everybody, welcome in this website relative to the server project of mybros.

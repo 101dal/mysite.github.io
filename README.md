@@ -1,3 +1,3 @@
 # mysite.github.io
 
--This prject is the first I do on github
+-This project is the first I do on github

@@ -1,0 +1,16 @@
+{
+  "name": "minelaup-docs-website",
+  "version": "1.0.0",
+  "description": "Documentation for the MineLaup system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "Bricklou",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it-task-checkbox": "^1.0.6",
+    "vuepress": "^1.4.1"
+  }
+}

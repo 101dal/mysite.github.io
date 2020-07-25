@@ -1,11 +1,16 @@
 # Gamerworld 
 
-    You are welcome in the server information's website of  Gamerworld
-    
+You are welcome in the server information's website of  Gamerworld
+
 ## First part : informations
 
-### [Server's informations](./server)
+ - [Server's informations](./en/server)
 
-### [Website's informations](./website)
+ - [Website's informations](./en/website)
 
-## Second part : [patch note](./patchnote)
+## Second part : patch note
+
+ - [Server patch note](./en/serverpatch)
+ - [Website patch note](./en/webpatch)
+
+## Third part : 

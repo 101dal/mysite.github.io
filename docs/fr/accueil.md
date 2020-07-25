@@ -11,7 +11,7 @@ Vous êtes bienvenu sur le site web d'information sur le serveur Gamerworld.
 
 ## Deuxième partie : patch note
 
- - [Patch note du serveur](.//patch/serverpatch)
+ - [Patch note du serveur](./patch/serverpatch)
 
  - [Patch note du site web](./patch/webpatch)
 

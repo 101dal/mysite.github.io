@@ -4,9 +4,9 @@ You are welcome in the server information's website of  Gamerworld
 
 ## First part : informations
 
- - [Server's informations](./en/server)
+ - [Server's informations](./en/serverinfo)
 
- - [Website's informations](./en/website)
+ - [Website's informations](./en/websiteinfo)
 
 ## Second part : patch note
 

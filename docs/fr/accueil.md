@@ -1,5 +1,5 @@
 # Gamerworld                    
-[fr](./fr/README.md)
+[en](https://101dal.github.io/mysite.github.io)
 
 Vous êtes bienvenu sur le site web d'information sur le serveur Gamerworld.
 

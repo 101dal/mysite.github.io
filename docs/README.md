@@ -11,12 +11,12 @@ You are welcome in the server information's website of  Gamerworld
 ## Second part : patch note
 
  - [Server patch note](./en/patch/serverpatch)
+
  - [Website patch note](./en/patch/webpatch)
 
 ## Third part : documentation
 
-### Informations
-
 ### How help :
  - The server project
+
  - The website

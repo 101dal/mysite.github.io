@@ -1,5 +1,5 @@
 # Gamerworld                    
-[fr](./fr/README.md)
+[fr](./fr/accueil.md)
 
 You are welcome in the server information's website of  Gamerworld
 

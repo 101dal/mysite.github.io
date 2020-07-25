@@ -7,7 +7,7 @@ Vous êtes bienvenu sur le site web d'information sur le serveur Gamerworld.
 
  - [Informations sur le serveur](./infos/serverinfo)
 
- - [Infformations sur le site web](./infos/websiteinfo)
+ - [Informations sur le site web](./infos/websiteinfo)
 
 ## Deuxième partie : patch note
 
@@ -18,6 +18,6 @@ Vous êtes bienvenu sur le site web d'information sur le serveur Gamerworld.
 ## Troisième partie : documentation
 
 ### Comment aider :
- - Le projet du serveur
+ - [Le projet du serveur](./documentation/serverproject)
 
- - La réalisation du site web
+ - [La réalisation du site web](./documentation/webproject)

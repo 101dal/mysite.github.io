@@ -20,4 +20,4 @@ You are welcome in the server information's website of  Gamerworld
 ### How help :
  - The server project
 
- - The website
+ - The website building

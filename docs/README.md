@@ -21,5 +21,3 @@ You are welcome in the server information's website of  Gamerworld
  - The server project
 
  - The website building
-
-<Discord />

@@ -1,6 +1,6 @@
 module.exports = {
     themeConfig: {
-      logo: '/assets/img/index.png',
+      logo: '/assets/index.png',
       nav: [
         { text: 'Home', link: '/' },
         { text: 'Guide', link: '/en/home/' },

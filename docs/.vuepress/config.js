@@ -1,5 +1,4 @@
 module.exports = {
-    // D'autres éléments de configuration
     theme: 'vuepress-theme-gouv-fr',
     themeConfig: {
         sidebarTitles: {

@@ -1,23 +1,16 @@
-# Gamerworld                    
-[fr](./fr/accueil.md)
-
-You are welcome in the server information's website of  Gamerworld
-
-## First part : informations
-
- - [Server's informations](./en/infos/serverinfo)
-
- - [Website's informations](./en/infos/websiteinfo)
-
-## Second part : patch note
-
- - [Server patch note](./en/patch/serverpatch)
-
- - [Website patch note](./en/patch/webpatch)
-
-## Third part : documentation
-
-### How help :
- - The server project
-
- - The website building
+---
+home: true
+heroImage: /hero.png
+heroText: Hero Title
+tagline: Hero subtitle
+actionText: Get Started →
+actionLink: /guide/
+features:
+- title: Simplicity First
+  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+- title: Vue-Powered
+  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Performant
+  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2018-present Evan You
+---

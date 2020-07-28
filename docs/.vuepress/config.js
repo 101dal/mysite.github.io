@@ -1,6 +1,6 @@
 module.exports = {
   themeConfig: {
-    logo: './img/logo.png',
+    logo: './img/vuepress.webp',
     theme: 'vuepress-theme-gouv-fr',
     themeConfig: {
       '/fr/' : {navbar: true,

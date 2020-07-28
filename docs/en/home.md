@@ -3,6 +3,17 @@
 
 You are welcome in the server information's website of  Gamerworld
 
+## Table of Contents of this page
+
+ - [First part : informations](.#first-part--informations)
+
+ - [Second part : patch note](.#second-part--patch-note)
+
+ - [Third part : documentation](.#third-part--documentation)
+
+   - [How help](.#how-help-)
+
+
 ## First part : informations
 
  - [Server's informations](./en/infos/serverinfo)
